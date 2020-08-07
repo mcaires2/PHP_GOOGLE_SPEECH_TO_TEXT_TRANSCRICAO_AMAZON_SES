@@ -1,0 +1,190 @@
+
+
+body{
+
+    background-color: darkcyan;
+}
+
+#coordenadasfield{
+
+    background-color: cornflowerblue;
+    font-size: x-large;
+    font-weight: bold;
+    font: caption;
+
+
+}
+
+#uploadLuzFormAudio{
+
+    margin-bottom: 20px;
+}
+
+
+
+#uploadarquivo {
+
+BACKGROUND-COLOR: cornflowerblue;
+
+}
+
+#uploadarquivolg {
+
+font-size: larger;
+font-weight: bold;
+
+}
+
+#AbrirArquivo {
+
+    BACKGROUND-COLOR: rgb(94, 185, 135);
+
+}
+
+#AbrirArquivo2 {
+
+    font-size: larger;
+    font-weight: bold;
+    
+    }
+
+    
+#AbrirArquivo3 {
+
+    BACKGROUND-COLOR: rgb(161, 134, 155);
+
+}
+
+
+#idcontainersenha{
+
+    margin-top: 30px;
+
+   
+}
+
+
+#coordenadasfieldlegend{
+    font-weight: 900;
+}
+
+
+#labelsenha {
+
+
+    font-weight: bolder;
+    
+}
+
+
+
+#botao,#botao2{
+
+    background-color: black;
+    color: whitesmoke;
+    font-family: inherit;
+    margin: 12px 1px 4px -1px;
+
+}
+
+#botao3 {
+
+    background-color: black;
+    color: whitesmoke;
+    font-family: inherit;
+    margin: 12px 1px 4px -1px;
+    display: none;
+
+
+}
+
+#link {
+
+    display: none;
+}
+
+
+#botaoconfirmacao2{
+
+    background-color: black;
+    color: whitesmoke;
+    font-family: inherit;
+    margin-left: 10px;
+
+}
+
+#uploadLuzForm{
+
+    display: none;
+    margin-bottom: 20px;
+}
+
+#uploadLuzTranscrição{
+
+    display: none;
+    margin-bottom: 20px;
+
+}
+
+
+
+#idcontainerfeedback {
+
+    font-weight: 600;
+    font-size: medium;
+    margin-top: 24px;
+}
+
+
+
+#idcontainerFeedback2{
+
+    margin-top: 20px;
+    margin-bottom: 1px;
+}
+
+#idcontainerFeedback3{
+
+    margin-top: 20px;
+    margin-bottom: 12px;
+    font-weight: 600;
+    font-size: medium;
+}
+
+#idcontainerMensagens{
+
+    font-weight: 600;
+    font-size: medium;
+    margin-top: 24px;
+
+
+}
+
+#idsenha{
+
+    margin-left: 30px;
+    margin-bottom: 10px;
+
+}
+
+
+.mensagens{
+    
+    font-family: revert;
+    font-size: 15px;
+    margin-bottom: 11px;
+    text-align: justify;
+}
+
+#contador{
+
+    font-size: 9px;
+}
+
+
+#uploadarquivolg{
+
+text-align: justify;
+font-size: 17px;
+
+}

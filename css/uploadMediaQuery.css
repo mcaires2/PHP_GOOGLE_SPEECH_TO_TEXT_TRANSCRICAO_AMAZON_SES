@@ -1,0 +1,50 @@
+
+@media screen and (max-width: 550px) {
+
+
+    #uploadarquivolg{
+
+    text-align: justify;
+    font-size: 17px;
+
+    }
+
+
+    #idcontainerfeedback{
+
+        text-align: justify;
+
+    }
+
+    #botaoEscolhaArquivo{
+
+
+        margin-bottom: 20px;
+        margin-top: 16px;
+
+
+    }
+
+    #botaoconfirmacao{
+
+        margin-left: -3px;
+
+    }
+
+    #coordenadasfieldlegend{
+
+        text-align: justify;
+    
+
+    }
+
+    #idcontainerMensagens {
+
+    text-align: justify;
+    font-size: 15px;
+
+    }
+
+
+}
+

@@ -1,0 +1,13 @@
+{
+    "require": {
+        "phpoffice/phpword": "^0.17.0",
+        "smalot/pdfparser": "^0.14.0",
+        "google/cloud-speech": "^1.2",
+        "google/cloud-storage": "^1.22",
+        "php-ffmpeg/php-ffmpeg": "^0.16.0",
+        "google/protobuf": "^3.12",
+        "ext-bcmath": "*",
+        "aws/aws-sdk-php": "^3.147"
+ 
+    }
+}
